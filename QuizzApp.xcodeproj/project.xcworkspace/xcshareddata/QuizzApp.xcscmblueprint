@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "286F0C1AFD4564B76E3C3F53FA6D68312B21D99D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "E351D24910637AF56C93D068133A5EC15A23C589" : 0,
+    "286F0C1AFD4564B76E3C3F53FA6D68312B21D99D" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "3DAF0A21-1EB4-4AF7-9F3E-054F3454496C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "E351D24910637AF56C93D068133A5EC15A23C589" : "QuizzApp\/QuizzApp\/",
+    "286F0C1AFD4564B76E3C3F53FA6D68312B21D99D" : "QuizzApp\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "QuizzApp",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "QuizzApp.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/gavrilaady\/ACIProject.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "286F0C1AFD4564B76E3C3F53FA6D68312B21D99D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/gavrilaady\/QuizzApp.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E351D24910637AF56C93D068133A5EC15A23C589"
+    }
+  ]
+}
